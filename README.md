@@ -21,5 +21,4 @@ A modern, responsive profile card built with HTML and CSS showcasing professiona
 ## How to Use
 
 1. Clone the repository:
-   ```bash
 git clone https://github.com/Sriram010107/PROFILE-CARD.git
